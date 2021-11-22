@@ -5,20 +5,11 @@
 # Hi, this is myDancer :wave:
 
 
-<p>
+![Profile View Counter](https://komarev.com/ghpvc/?username=myDancer)
 
-[![Website](https://img.shields.io/badge/personal%20website-syy11.cn-b860ff?logo=html5&logoColor=white&labelColor=red)](https://syy11.cn)
-[![Wechat Subscription Account](https://img.shields.io/badge/subscription%20account-%E5%AD%99%E8%BD%B6%E6%89%AC-1e80ff?logo=wechat)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwNzQxNTgxNQ==&scene=124#wechat_redirect)
-
-</p>
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=syy11cn)
-
+  
 ## Introduction :raised_hands:
 
-Student of [@UESTC](https://github.com/uestcer). :school:
-
-Major in Software Engineering. :man_technologist:
 
 I love open source spirit. :heart:
 
