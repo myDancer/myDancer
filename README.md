@@ -1,6 +1,5 @@
 <div align=center>
 
-<img alt="mydancer" src="./assets/avatar.png" width=100 />
 
 # Hi, this is myDancer :wave:
 
