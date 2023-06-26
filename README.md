@@ -33,6 +33,7 @@ I love Front End technologys. :heart:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
 ![React](https://img.shields.io/badge/-React-282c34?logo=react)
+![Angular](https://img.shields.io/badge/-Angular-282c34?logo=Angular)
 ![MiniProgram](https://img.shields.io/badge/-MiniProgram-07c160?logo=wechat&logoColor=white)
 
 </p>
